@@ -45,4 +45,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-repository/cargo-tracking.git
+   [git clone https://github.com/your-repository/cargo-tracking.git](https://github.com/RAZEX0LOL/Cargo-Tracking-Interface.git)
